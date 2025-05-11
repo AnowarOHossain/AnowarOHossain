@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anowar Hossain</h1>
-<h3 align="center">Final-year CSE Student | Web Developer | Passionate about Web & AI 🚀</h3>
+<h3 align="center">Web Developer | Passionate about Web & AI 🚀</h3>
 
-- 🎓 I'm a 4th-year Computer Science student (Graduating in 2025)
 - 🌱 Currently learning **React, Node.js, AI Integration, and DevOps**
 - 💻 Building full-stack web apps and exploring AI-enhanced features
 - 🌐 Visit my portfolio: [anowar.netlify.app](https://anowar.netlify.app)
 - 📫 Contact me: anowarhossain.dev@gmail.com 
 - 💬 Ask me about **Web Development, GitHub, or Learning Roadmaps**
 - ⚡ Fun fact: I love learning new technologies and building useful apps
-
+  
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -21,22 +20,24 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anowarohossain&show_icons=true&theme=tokyonight" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anowarohossain&theme=tokyonight" width="45%" />
 </p>
 
+### 🗂️ Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowarohossain&layout=compact&theme=tokyonight" width="50%" />
+</p>
 
 ### 📌 Featured Projects
 - 📝 [My Portfolio](https://anowar.netlify.app) – Built with HTML, CSS, JavaScript
 - 🧠 [AI Chatbot](#) – Coming soon: An AI chatbot using OpenAI API and React
-- 🌐 [Blog App](#) – Full-stack app using MERN Stack.
+- 🌐 [Blog App](#) – Full-stack app using MERN Stack
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anowarohossain)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/anowarohossain)
-
 
 ⭐ *Thanks for visiting! Don't forget to follow and connect with me! 😊*
