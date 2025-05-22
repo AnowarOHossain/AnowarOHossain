@@ -31,11 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowarohossain&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
-### 📌 Featured Projects
-- 📝 [My Portfolio](https://anowar.netlify.app) – Built with HTML, CSS, JavaScript
-- 🧠 [AI Chatbot](#) – Coming soon: An AI chatbot using OpenAI API and React
-- 🌐 [Blog App](#) – Full-stack app using MERN Stack
-
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anowarohossain)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/anowarohossain)
