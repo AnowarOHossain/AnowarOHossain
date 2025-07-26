@@ -4,7 +4,7 @@
 - 🌱 Currently learning **React, Node.js, AI Integration, and DevOps**
 - 💻 Building full-stack web apps and exploring AI-enhanced features
 - 🌐 Visit my portfolio: [anowar.netlify.app](https://anowar.netlify.app)
-- 📫 Contact me: anowarhossain.dev@gmail.com 
+- 📫 To Message Me: [Click Here](https://msganowar.netlify.app/) 
 - 💬 Ask me about **Web Development, GitHub, or Learning Roadmaps**
 - ⚡ Fun fact: I love learning new technologies and building useful apps
   
