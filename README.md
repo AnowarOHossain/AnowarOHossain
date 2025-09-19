@@ -56,17 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowarohossain&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anowarohossain&theme=tokyonight&row=1&column=6" />
-</p>
-
-### 📊 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anowarohossain&theme=tokyo-night" />
-</p>
-
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/anowarohossain"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
