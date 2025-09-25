@@ -51,6 +51,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/anowarohossain"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://msganowar.netlify.app/"><img src="https://img.shields.io/badge/Message%20Me-0A74DA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://anowarohossain.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
 <p align="center">
