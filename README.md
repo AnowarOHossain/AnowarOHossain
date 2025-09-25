@@ -1,8 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=200&section=header&text=Anowar%20Hossain%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
 <h3 align="center">Web Developer | Exploring Web & AI 🌐🤖</h3>
 
 ### 👨‍💻 About Me
@@ -18,7 +13,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
@@ -43,9 +40,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 
+
 ### 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anowarohossain&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=anowarohossain&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowarohossain&layout=compact&theme=tokyonight" height="160" />
 </p>
 
@@ -57,9 +55,4 @@
 
 <p align="center">
   ⭐ Thanks for visiting! Let’s connect and build something amazing! 🚀
-</p>
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=100&section=footer" />
 </p>
