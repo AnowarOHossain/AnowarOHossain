@@ -1,7 +1,8 @@
 <h3 align="center">Web Developer | Exploring Web & AI 🌐🤖</h3>
 
 ### 👨‍💻 About Me
-# Hi there, I'm Anowar Hossain 👋  
+# Hi there, I'm  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=00F7FF&width=435&lines=Anowar;Hossain)
 
 🚀 Passionate about **Full-Stack Development** and **AI Integration**.  
 💡 Exploring new technologies and building impactful projects.  
