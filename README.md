@@ -1,14 +1,13 @@
 <h3 align="center">Web Developer | Exploring Web & AI 🌐🤖</h3>
 
 ### 👨‍💻 About Me
-<h1>Hi there, I'm 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=600&color=00F7FF&width=550&lines=Anowar+Hossain" alt="Typing SVG" />
+<h1 style="display: flex; align-items: center; gap: 10px;">
+  Hi there, I'm 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=600&color=00F7FF&width=550&lines=Anowar+Hossain" alt="Typing SVG" style="vertical-align: middle;" />
 </h1>
 
 🚀 Passionate about **Full-Stack Development** and **AI Integration**.  
 💡 Exploring new technologies and building impactful projects.  
-
-
 
 ### 🛠️ Skills  
 
