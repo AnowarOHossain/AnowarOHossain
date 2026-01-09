@@ -53,10 +53,11 @@
 ---
 
 ### 📊 GitHub Insights  
+<h3 align="center">📊 GitHub Insights</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anowarohossain&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowarohossain&layout=compact&theme=tokyonight" height="160" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=anowarohossain&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowarohossain&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+</p>  
 
 ---
 
