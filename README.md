@@ -1,11 +1,11 @@
-<h3 align="center">Software Developer | Exploring Software, Web & AI 🌐🤖</h3>
+<h3 align="center">Software Developer | Exploring Software, Web & AI </h3>
 <h1 align="center">Hi there, I'm</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=600&color=00F7FF&width=550&lines=Anowar+Hossain" alt="Typing SVG" />
 </p>
 
-🚀 Passionate about **Software Development**, **Full-Stack Systems**, and **AI Integration**.  
-💡 Exploring modern technologies and building scalable, real-world solutions.
+ - Passionate about **Software Development**, **Full-Stack Systems**, and **AI Integration**.  
+ - Exploring modern technologies and building scalable, real-world solutions.
 
 ---
 
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Insights  
+### GitHub Insights  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anowarohossain&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowarohossain&layout=compact&theme=tokyonight" height="160" />
@@ -60,7 +60,7 @@
 
 ---
 
-### 🌐 Connect With Me  
+### Connect With Me  
 <p align="center">
   <a href="https://anowarohossain.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
@@ -74,5 +74,5 @@
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting! Let’s connect and build something impactful together 🚀
+  Thanks for visiting! Let’s connect and build something impactful together 
 </p>
