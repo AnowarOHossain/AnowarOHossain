@@ -43,7 +43,6 @@
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=fastapi&logoColor=white)  
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8A2BE2?style=flat&logo=google&logoColor=white)  
 ![Ollama](https://img.shields.io/badge/Ollama_LLM-000000?style=flat&logo=ai&logoColor=white)  
-![TinyLLaMA](https://img.shields.io/badge/TinyLLaMA-4B0082?style=flat&logo=ai&logoColor=white)
 
 #### **Version Control & Design**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
