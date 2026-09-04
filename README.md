@@ -1,4 +1,4 @@
-<h3 align="center">Software Developer | Exploring Software, Web & AI </h3>
+<h3 align="center">Software Developer | Exploring Software,Web,Mobile App Developmnet & AI </h3>
 <h1 align="center">Hi there, I'm</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=600&color=00F7FF&width=550&lines=Anowar+Hossain" alt="Typing SVG" />
