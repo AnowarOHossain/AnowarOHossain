@@ -46,8 +46,8 @@
 ---
 ### GitHub Insights  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anowarohossain&theme=tokyonight&v=1" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowarohossain&layout=compact&theme=tokyonight&count_private=true&v=1" height="160" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=AnowarOHossain&hide_border=true" />
+ <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaziShahHamza&layout=compact&langs_count=8&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 ---
