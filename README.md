@@ -47,7 +47,7 @@
 ### GitHub Insights  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnowarOHossain&hide_border=true" />
- <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaziShahHamza&layout=compact&langs_count=8&hide_border=true" height="170" alt="Top Languages" />
+ <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnowarOHossain&layout=compact&langs_count=8&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 ---
