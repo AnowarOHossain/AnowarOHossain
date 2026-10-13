@@ -1,30 +1,29 @@
 👋 Hi, I'm Anowar Hossain
-<h3 align="center">Flutter Developer | Mobile App Development | AI Integration</h3>
+<h3 align="center">Mobile Application Developer | Flutter & Cross-Platform Specialist</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=54C5F8&center=true&vCenter=true&width=650&lines=Building+Cross-Platform+Mobile+Apps;Mastering+Dart+%26+Flutter;Exploring+Firebase+%26+REST+APIs;Integrating+AI+into+Mobile+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=54C5F8&center=true&vCenter=true&width=650&lines=Building+Cross-Platform+Mobile+Apps;Flutter+%26+Dart+Development;Integrating+AI+%26+Cloud+Services;Designing+Scalable+App+Architectures" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Flutter%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Specialization-Flutter%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Field-Mobile%20Apps-34A853?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain-Mobile%20Apps-34A853?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 🚀 About Me
-- 📱 Focused on Flutter & Cross-Platform Mobile App Development.
-- 🎓 Computer Science and Engineering (CSE) background.
-- 💻 Experienced in clean architecture, state management (Riverpod), and mobile routing.
-- 🔥 Skilled in integrating Firebase, REST APIs, and backend services for real-world apps.
-- 🤖 Passionate about integrating AI capabilities (Gemini API) into intuitive mobile experiences.
-- 🧠 Strong foundation in problem-solving, logical thinking, and writing maintainable code.
-- 🌱 Continuously building projects, refining architecture, and pushing production-ready code.
+- 📱 Mobile Application Developer specializing in cross-platform iOS and Android apps using **Flutter** & **Dart**.
+- 🎓 Computer Science and Engineering (CSE) background with strong fundamentals in logic and architecture.
+- 🏗️ Skilled in Feature-Based Clean Architecture, state management (**Riverpod**), and reactive routing (**GoRouter**).
+- 🔥 Experienced in integrating Firebase, REST APIs, and third-party SDKs for production mobile products.
+- 🤖 Proficient in implementing AI capabilities (**Google Gemini API**) to build smart mobile experiences.
+- 🧠 Focused on writing clean, maintainable, and testable code with smooth UI/UX animations.
 
-*My goal is to build useful, performant, and user-friendly mobile applications that solve real-world problems.*
+*I design, build, and ship performant, reliable, and user-centric mobile applications.*
 
 ---
 
 🛠️ Tech Stack & Tools
 
-**📱 Mobile App Development & State Management**
+**📱 Mobile Development & State Management**
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
@@ -33,7 +32,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
 </p>
 
-**🔥 Backend, Database & APIs**
+**🔥 Backend, Cloud & APIs**
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white" />
@@ -56,7 +55,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
-**⚙️ Tools & Workflow**
+**⚙️ Development Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -67,13 +66,22 @@
 
 ---
 
-📂 Featured Projects
+📂 Featured Project
 
-| Project | Description | Primary Technologies | Link |
-| :--- | :--- | :--- | :---: |
-| **🌍 GoPlanner** | AI-Powered Travel Planning App with smart itinerary generation, budget estimation, local tourism datasets, interactive maps & favorites management. Built with clean feature architecture. | Flutter, Riverpod, GoRouter, Gemini API, Firebase, Google Maps | [View Code ↗](https://github.com/AnowarOHossain/GoPlanner) |
-| **📱 Custom Flutter Apps** | Production-ready cross-platform applications demonstrating clean architecture, offline storage, and responsive UI. | Flutter, Dart, Hive/SQLite | *In Progress* |
-| **🔥 Smart AI Utilities** | Cross-platform utilities integrating LLMs & cloud synchronization for seamless user experiences. | Flutter, Firebase, Gemini API | *In Progress* |
+### [🌍 GoPlanner — AI-Powered Travel Planning Mobile App](https://github.com/AnowarOHossain/GoPlanner)
+
+An end-to-end, cross-platform mobile application designed to help users discover destinations, plan trips, estimate budgets, save favorites, and generate personalized itineraries using Gemini AI grounded in local tourism datasets.
+
+**Key Technical Highlights:**
+- **Architecture:** Feature-first clean architecture (`core`, `data`, `domain`, `presentation`).
+- **State & Routing:** Reactive state management with **Riverpod** and scalable navigation with **GoRouter**.
+- **AI Integration:** Context-grounded **Gemini AI** for customized itinerary generation.
+- **Location & Maps:** Dual integration with **Google Maps** and **OpenStreetMap** (`flutter_osm_plugin`).
+- **Data Pipeline:** Firebase Firestore cloud sync combined with structured local datasets.
+
+**Tech Stack:** `Flutter` | `Dart` | `Riverpod` | `GoRouter` | `Gemini API` | `Firebase` | `Google Maps`
+
+👉 **[Explore GoPlanner Source Code ↗](https://github.com/AnowarOHossain/GoPlanner)**
 
 ---
 
@@ -85,15 +93,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnowarOHossain&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
 </p>
-
----
-
-🎯 Current Learning Goals
-- [x] Implement clean feature architecture (Data, Domain, Presentation).
-- [x] Master state management with Riverpod and routing with GoRouter.
-- [ ] Build responsive, polished UI design systems in Flutter.
-- [ ] Advance local data handling & REST API optimization.
-- [ ] Prepare portfolio for Junior/Mid Flutter Developer opportunities.
 
 ---
 
@@ -111,5 +110,5 @@
 </p>
 
 <p align="center">
-  💙 <i>Learning every day. Building with purpose. Growing as a developer.</i>
+  <i>Building high-quality, performant mobile experiences.</i>
 </p>
