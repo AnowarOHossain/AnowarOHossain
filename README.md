@@ -1,70 +1,135 @@
-<h3 align="center">Software Developer | Exploring Software,Web,Mobile App & AI </h3>
-<h1 align="center">Hi there, I'm</h1>
+# 👋 Hi, I'm Anowar Hossain
+
+<h3 align="center">Flutter Developer in Progress | Mobile App Development | AI Integration</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=600&color=00F7FF&width=550&lines=Anowar+Hossain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=54C5F8&center=true&vCenter=true&width=650&lines=Learning+Dart+%26+Flutter;Building+Cross-Platform+Mobile+Apps;Exploring+Firebase+%26+REST+APIs;Turning+Ideas+Into+Mobile+Experiences" alt="Typing SVG" />
 </p>
 
- - Passionate about **Software Development**, **Full-Stack Systems**, and **AI Integration**.  
- - Exploring modern technologies and building scalable, real-world solutions.
-
----
-
-###  Skills  
-
-#### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-
-#### **Database & Backend Services**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-#### **APIs, AI & LLMs**
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=fastapi&logoColor=white)  
-![Gemini API](https://img.shields.io/badge/Gemini_API-8A2BE2?style=flat&logo=google&logoColor=white)  
-![Ollama](https://img.shields.io/badge/Ollama_LLM-000000?style=flat&logo=ai&logoColor=white)  
-
-#### **Version Control & Design**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-#### **Programming Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
----
-### GitHub Insights  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnowarOHossain&hide_border=true" />
- <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnowarOHossain&layout=compact&langs_count=8&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Focus-Flutter%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Field-Mobile%20Apps-34A853?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ---
 
-### Connect With Me  
+## 🚀 About Me
+
+- 📱 Focused on **Flutter & Cross-Platform Mobile App Development**.
+- 🎓 Computer Science and Engineering (CSE) background.
+- 💻 Building a strong foundation in **Dart, Flutter, and mobile app architecture**.
+- 🔥 Exploring Firebase, REST APIs, and backend integration for real-world applications.
+- 🤖 Interested in integrating AI capabilities into useful mobile applications.
+- 🧠 Passionate about problem-solving, logical thinking, and writing maintainable code.
+- 🌱 Continuously learning, building projects, and improving my development skills.
+
+> My goal is to build useful, reliable, and user-friendly mobile applications that solve real-world problems.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 📱 Mobile App Development
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+</p>
+
+### 🔥 Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+### 🤖 AI & Integration
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
+</p>
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
+
+### ⚙️ Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+</p>
+
+---
+
+---
+
+📂 Featured Projects
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **🌍 GoPlanner** | AI-Powered Travel Planning App with smart itinerary generation, budget estimation, local tourism datasets, maps & favorites management. | Flutter, Riverpod, GoRouter, Gemini API, Firebase, Google Maps | [View Code ↗](https://github.com/AnowarOHossain/GoPlanner) |
+| **📱 Custom Apps (In Progress)** | Production-ready cross-platform applications featuring clean architecture & state management. | Flutter, Dart | *Coming Soon* |
+| **🔥 Firebase & AI Integrations** | Real-time cloud-synced utilities & smart mobile tools powered by Gemini API. | Flutter, Firebase, LLM APIs | *Coming Soon* |
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnowarOHossain&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnowarOHossain&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnowarOHossain&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🎯 Current Learning Goals
+
+- [ ] Master Dart fundamentals and null safety.
+- [ ] Build responsive, polished Flutter user interfaces.
+- [ ] Understand state management and app architecture.
+- [ ] Integrate REST APIs and Firebase services.
+- [ ] Build and publish independent mobile applications.
+- [ ] Prepare for Junior Flutter Developer opportunities.
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://anowarohossain.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/anowarohossain">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://msganowar.netlify.app/">
-    <img src="https://img.shields.io/badge/Message%20Me-0A74DA?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Message%20Me-0A74DA?style=for-the-badge&logo=gmail&logoColor=white" alt="Message Me" />
   </a>
 </p>
 
 <p align="center">
-  Thanks for visiting! Let’s connect and build something impactful together 
+  💙 Learning every day. Building with purpose. Growing as a developer.
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile. Let's build something meaningful!</i>
 </p>
