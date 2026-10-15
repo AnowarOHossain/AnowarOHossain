@@ -44,6 +44,12 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
+**🤖 AI Integration**
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
+</p>
+
 
 📂 Featured Project
 
