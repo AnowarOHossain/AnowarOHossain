@@ -25,8 +25,11 @@ I am a **Mobile Application Developer** specializing in building performant, cro
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Riverpod-00599C?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-8F00FF?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/GoRouter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-2E8B57?style=flat&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dio%20Networking-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive%20Storage-FF6F00?style=flat&logo=flutter&logoColor=white" />
 </p>
 
 **🔥 Backend, Cloud & APIs**
