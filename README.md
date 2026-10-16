@@ -18,7 +18,7 @@ I am a **Mobile Application Developer** specializing in building performant, cro
 
 ---
 
-## 🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools
 
 **📱 Mobile Development & Architecture**
 <p>
@@ -44,11 +44,6 @@ I am a **Mobile Application Developer** specializing in building performant, cro
 <p>
   <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
-</p>
-
-**💻 Programming Language**
-<p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
 </p>
 
 **⚙️ Development Tools & Environment**
